@@ -22,7 +22,7 @@ The script is divided into well-organized sections, each with examples and comme
 - 📦 **Modules** – using built-in libraries like `math`, `random`, `json`, `datetime`, `re`, `sys`
 - 🧵 **Threading** – running parallel tasks
 - 🖥️ **OS Commands** – interacting with Windows/Linux systems
-- 🧠 **Educational Comments** – every section includes Arabic explanations for clarity
+- 🧠 **Educational Comments** – every section includes explanations for clarity
 
 ---
 
@@ -32,7 +32,7 @@ This script was created by **Kyrillos** as a personal reference and learning too
 
 - Beginners learning Python from scratch
 - Intermediate developers revisiting core concepts
-- Anyone who prefers structured, annotated code in Arabic
+- Anyone who prefers structured, and annotated code 
 
 ---
 
